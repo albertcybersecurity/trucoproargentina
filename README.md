@@ -1,1 +1,1 @@
-Subí index.html a la raíz del repositorio. Versión todo-en-uno para que no fallen botones por app.js/styles.css faltantes.
+Sube index.html a la raíz. Todo está dentro del mismo archivo para que no fallen botones por JS/CSS externo.
